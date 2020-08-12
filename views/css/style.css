@@ -26,7 +26,7 @@ body{
 .twilight-head button{
   color: #D993A7;
   display: inline-block;
-  margin-right: 10%;
+  margin-right: 15px;
   padding: 10px;
   width: 40%;
   border-radius: 13px;
@@ -129,7 +129,8 @@ h2{
 }
 
 .footer{
-  margin: 3% 0 3% 5%;
+  margin-top: 50px;
+  margin-left: 80px;
   font-family: 'Quicksand';
   color: #39254F;
   width: 80%;
@@ -140,16 +141,16 @@ h2{
 }
 
 .first p{
-  width: 25%;
+  width: 24%;
   display: inline-block;
 }
 
 .second p{
-  width: 25%;
+  width: 24%;
   display: inline-block;
 }
 
 .third p{
-  width: 25%;
+  width: 24%;
   display: inline-block;
 }
