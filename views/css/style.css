@@ -1,0 +1,155 @@
+body{
+  margin: 0;
+  background-color: #F4CCB2;
+  width: 100%;
+}
+
+.App{
+  width: 100%;
+}
+
+.twilight-head{
+  width: 100%;
+  height: 10%;
+  background-color: white;
+  padding: 15px;
+}
+
+.twilight-head h1{
+  color: #39254F;
+  display: inline-block;
+  margin-left: 5%;
+  margin-bottom: 0;
+  font-family: 'Merriweather';
+}
+
+.twilight-head button{
+  color: #D993A7;
+  display: inline-block;
+  margin-right: 10%;
+  padding: 10px;
+  width: 40%;
+  border-radius: 13px;
+  font-family: 'Bellota Text';
+}
+
+.twilight-header-button{
+  float: right;
+  width: 300px;
+  margin-right: 4%;
+}
+
+.twilight-search{
+  background-color: white;
+}
+
+.twilight-signin{
+  background-color: #39254F;
+}
+
+#mybag{
+  margin-left: 435px;
+}
+
+.twilight-navbar{
+  width: 9  0%;
+  margin-left: 4.5%;
+}
+
+.line{
+  width: 45%;
+  height: 2px;
+  background-color: #39254F;
+  border-radius: 10px;
+  margin-left: 22px;
+}
+
+.nav-item{
+  margin-right: 20px;
+  height: 40px;
+  width: 115px;
+}
+
+.twilight-image{
+  margin-top: 2%;
+}
+
+img{
+  width: 449px;
+  height: 400px;
+  display: inline-block;
+}
+
+h2{
+  margin-left: 5%;
+  margin-top: 3%;
+  color: #39254F;
+  font-family: 'Quicksand';
+}
+
+.best-line{
+  width: 15%;
+  height: 2px;
+  background-color: #39254F;
+  border-radius: 10px;
+  margin-left: 5.1%;
+  margin-top: -10px;
+}
+
+.best-line-2{
+  width: 16%;
+  height: 2px;
+  background-color: #39254F;
+  border-radius: 10px;
+  margin-left: 5.1%;
+  margin-top: -10px;
+}
+
+.best-line-3{
+  width: 14%;
+  height: 2px;
+  background-color: #39254F;
+  border-radius: 10px;
+  margin-left: 5.1%;
+  margin-top: -10px;
+}
+
+.card{
+  margin-left: 5%;
+  width: 250px;
+  height: 450px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px #FFFFCA;
+  display: inline-block;
+}
+
+.product-card{
+  margin-top: 2%;
+}
+
+.footer{
+  margin: 3% 0 3% 5%;
+  font-family: 'Quicksand';
+  color: #39254F;
+  width: 80%;
+}
+
+.first{
+  width: 100%;
+}
+
+.first p{
+  width: 25%;
+  display: inline-block;
+}
+
+.second p{
+  width: 25%;
+  display: inline-block;
+}
+
+.third p{
+  width: 25%;
+  display: inline-block;
+}
